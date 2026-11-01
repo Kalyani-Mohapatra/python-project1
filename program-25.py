@@ -5,8 +5,11 @@
 
 Input="programming"
 result=""
+max_fre=0
 for i in Input:
-    if Input.count(i)==2:
-        result+=i
-        break
+    fre=Input.count(i)
+    if fre>max_fre:
+        max_fre=fre
+        result=i
+        
 print(f"Most frequent character :{result}")        
