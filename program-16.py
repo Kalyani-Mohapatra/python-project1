@@ -11,4 +11,5 @@ for i in input:
                         # here both duplicate will give the same output
         duplicate=i
         break        
-print(duplicate)    
+print(duplicate)   
+ 
