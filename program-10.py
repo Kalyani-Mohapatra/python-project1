@@ -23,4 +23,5 @@ for ch in (name):
 print(f"vowels:{v_count}") 
 print(f"Consonant:{c_count}")  
 print(f"Digit:{d_count}")
-print(f"Space:{s_count}")     
+print(f"Space:{s_count}")    
+
