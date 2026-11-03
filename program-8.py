@@ -13,3 +13,5 @@ print(text[7:18])
 print(text[::-1])#for reversing a string using slice
 # print 7
 print(text[0:18:2])
+
+
