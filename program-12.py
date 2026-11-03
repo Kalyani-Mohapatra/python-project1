@@ -12,4 +12,5 @@ if reverse==txt:
     print("It's an palindrome word")
 else:
     print("error")    
+    
    
