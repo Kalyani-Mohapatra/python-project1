@@ -17,3 +17,7 @@ print(text.replace("Python","Java"))
 print(text.startswith("Python"))
 
 print(text.index("P"))
+
+
+
+
