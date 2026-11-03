@@ -16,5 +16,4 @@ for ch in input:
         print(ch,"=",input.count(ch))
     seen+=ch
     
-   
        
