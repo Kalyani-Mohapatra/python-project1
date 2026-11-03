@@ -1,4 +1,4 @@
-# write a program, by using import time to get prresent time for wising user good morning, goodafternoon, good evening, good night.
+# write a program, by using import time to get present time for wising user good morning, goodafternoon, good evening, good night.
 
 import time 
 present_time=time.strftime('%H:%M:%S')
