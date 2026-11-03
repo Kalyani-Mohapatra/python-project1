@@ -20,3 +20,4 @@ print(text.find("Python"))
 # string
 fruit=("apple mango banana")
 print(fruit.split())
+
