@@ -30,3 +30,4 @@ if mark>=40:
 else:
     print("Fail")
 
+
